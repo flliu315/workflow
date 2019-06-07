@@ -17,3 +17,4 @@ summary(aov_Weight_Field)
 ### Write test result to plain text file 
 
 capture.output(aov_Weight_Field, file = "results/test_results.txt") 
+
